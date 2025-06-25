@@ -44,10 +44,11 @@
 ## Table of Contents
 
 1. [💡 Introduction](#-introduction)
-2. [🎯 Current Results](#-current-results)
-3. [🛠️ Installation & Setup](#%EF%B8%8F-installation--setup) 
-4. [🚀 Usage](#-usage)
-5. [💬 Citation](#-citation)
+2. [🏗️ Architecture](#️-architecture)
+3. [🎯 Current Results](#-current-results)
+4. [🛠️ Installation & Setup](#%EF%B8%8F-installation--setup) 
+5. [🚀 Usage](#-usage)
+6. [💬 Citation](#-citation)
 
 ## 💡 Introduction
 
@@ -55,16 +56,50 @@
     <img src="../../images/teaser.png" width="800">
 </p>
 
+<p align="center">
+    <img src="../../images/agent_s2_teaser.png" width="800">
+</p>
+
 Welcome to **computer_Agent**, an open-source framework designed to enable autonomous interaction with computers through Agent-Computer Interface. Our mission is to build intelligent GUI agents that can learn from past experiences and perform complex tasks autonomously on your computer. 
 
 Whether you're interested in AI, automation, trading, or contributing to cutting-edge agent-based systems, we're excited to have you here!
 
+## 🏗️ Architecture
+
+<p align="center">
+    <img src="../../images/agent_s2_architecture.png" width="600">
+    <br>
+    <em>computer_Agent Architecture Overview</em>
+</p>
+
 ## 🎯 Current Results
+
+### OSWorld Performance
 
 <p align="center">
     <img src="../../images/results.png" width="600">
     <br>
     Results of Successful Rate (%) on the OSWorld full test set of all 369 test examples using Image + Accessibility Tree input.
+</p>
+
+<p align="center">
+    <img src="../../images/osworld_result.png" width="600">
+    <br>
+    <em>Detailed OSWorld Performance Analysis</em>
+</p>
+
+<p align="center">
+    <img src="../../images/agent_s2_osworld_result.png" width="600">
+    <br>
+    <em>computer_Agent S2 OSWorld Results</em>
+</p>
+
+### Windows Performance
+
+<p align="center">
+    <img src="../../images/windows_result.png" width="600">
+    <br>
+    <em>Windows Agent Arena Performance Results</em>
 </p>
 
 <div align="center">
