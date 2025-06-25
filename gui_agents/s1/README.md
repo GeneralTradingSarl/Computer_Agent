@@ -1,29 +1,53 @@
 <h1 align="center">
-  <img src="../../images/agent_s.png" alt="Logo" style="vertical-align:middle" width="60"> Agent S:
-  <small>Using Computers Like a Human</small>
+  <img src="../../images/agent_s.png" alt="Logo" style="vertical-align:middle" width="60"> computer_Agent:
+  <small>Universal AI Automation & Trading Framework</small>
 </h1>
 
-<p align="center">
-  🌐 <a href="https://www.simular.ai/agent-s">[Website]</a>
-  📄 <a href="https://arxiv.org/abs/2410.08164">[Paper]</a>
-  🎥 <a href="https://www.youtube.com/watch?v=OBDE3Knte0g">[Video]</a>
-  🗨️ <a href="https://discord.gg/E2XfsK9fPV">[Discord]</a>
+<p align="center">&nbsp;
+  🌐 <a href="https://github.com/GeneralTradingSarl/Perplexity_agent">[Knowledge Engine]</a>&nbsp;
+  📄 <a href="https://github.com/GeneralTradingSarl/computer_Agent">[Repository]</a>&nbsp;
+  🎥 <a href="https://github.com/GeneralTradingSarl/computer_Agent">[Documentation]</a>
 </p>
 
-## 🥳 Updates
-- [x] **2025/01/22**: The [Agent S paper](https://arxiv.org/abs/2410.08164) is accepted to ICLR 2025!
-- [x] **2025/01/21**: Released v0.1.2 of [gui-agents](https://github.com/simular-ai/Agent-S) library, with support for Linux and Windows!
-- [x] **2024/12/05**: Released v0.1.0 of [gui-agents](https://github.com/simular-ai/Agent-S) library, allowing you to use Agent-S for Mac, OSWorld, and WindowsAgentArena with ease!
-- [x] **2024/10/10**: Released [Agent S paper](https://arxiv.org/abs/2410.08164) and codebase!
+<p align="center">&nbsp;
+  🌐 <a href="https://github.com/GeneralTradingSarl/Perplexity_agent">[Perplexity Integration]</a>&nbsp;
+  📄 <a href="https://github.com/GeneralTradingSarl/computer_Agent">[AI Framework]</a>&nbsp;
+  🎥 <a href="https://github.com/GeneralTradingSarl/computer_Agent">[Tutorials]</a>
+</p>
+
+<p align="center">&nbsp;
+<a href="https://github.com/GeneralTradingSarl/computer_Agent" target="_blank"><img src="https://img.shields.io/badge/computer_Agent-Universal%20AI%20Framework-blue?style=for-the-badge&logo=github" alt="computer_Agent | Universal AI Framework" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">
+    <img src="https://img.shields.io/badge/GeneralTradingSarl-Open%20Source-green?style=for-the-badge&logo=github" alt="GeneralTradingSarl">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/GeneralTradingSarl/Perplexity_agent">
+    <img src="https://img.shields.io/badge/Perplexity-Knowledge%20Engine-orange?style=for-the-badge&logo=github" alt="Perplexity Engine">
+  </a>
+</p>
+
+<div align="center">
+  <!-- Keep these links. Translations will automatically update with the README. -->
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">English</a> | 
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">Français</a> | 
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">Español</a> | 
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">Deutsch</a> | 
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">中文</a> | 
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">日本語</a> | 
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">한국어</a> | 
+  <a href="https://github.com/GeneralTradingSarl/computer_Agent">Русский</a>
+</div>
 
 ## Table of Contents
 
 1. [💡 Introduction](#-introduction)
 2. [🎯 Current Results](#-current-results)
-3. [🛠️ Installation](#%EF%B8%8F-installation) 
+3. [🛠️ Installation & Setup](#%EF%B8%8F-installation--setup) 
 4. [🚀 Usage](#-usage)
-5. [🙌 Contributors](#-contributors)
-6. [💬 Citation](#-citation)
+5. [💬 Citation](#-citation)
 
 ## 💡 Introduction
 
@@ -31,9 +55,9 @@
     <img src="../../images/teaser.png" width="800">
 </p>
 
-Welcome to **Agent S**, an open-source framework designed to enable autonomous interaction with computers through Agent-Computer Interface. Our mission is to build intelligent GUI agents that can learn from past experiences and perform complex tasks autonomously on your computer. 
+Welcome to **computer_Agent**, an open-source framework designed to enable autonomous interaction with computers through Agent-Computer Interface. Our mission is to build intelligent GUI agents that can learn from past experiences and perform complex tasks autonomously on your computer. 
 
-Whether you're interested in AI, automation, or contributing to cutting-edge agent-based systems, we're excited to have you here!
+Whether you're interested in AI, automation, trading, or contributing to cutting-edge agent-based systems, we're excited to have you here!
 
 ## 🎯 Current Results
 
@@ -43,17 +67,46 @@ Whether you're interested in AI, automation, or contributing to cutting-edge age
     Results of Successful Rate (%) on the OSWorld full test set of all 369 test examples using Image + Accessibility Tree input.
 </p>
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="5">
+    <tr>
+      <th>Benchmark</th>
+      <th>computer_Agent</th>
+      <th>Previous SOTA</th>
+      <th>Δ improve</th>
+    </tr>
+    <tr>
+      <td>OSWorld (15 step)</td>
+      <td>27.0%</td>
+      <td>22.7% (UI-TARS)</td>
+      <td>+4.3%</td>
+    </tr>
+    <tr>
+      <td>OSWorld (50 step)</td>
+      <td>34.5%</td>
+      <td>32.6% (OpenAI CUA)</td>
+      <td>+1.9%</td>
+    </tr>
+    <tr>
+      <td>WindowsAgentArena</td>
+      <td>29.8%</td>
+      <td>19.5% (NAVI)</td>
+      <td>+10.3%</td>
+    </tr>
+    <tr>
+      <td>AndroidWorld</td>
+      <td>54.3%</td>
+      <td>46.8% (UI-TARS)</td>
+      <td>+7.5%</td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Installation & Setup
 
 > ❗**Warning**❗: If you are on a Linux machine, creating a `conda` environment will interfere with `pyatspi`. As of now, there's no clean solution for this issue. Proceed through the installation without using `conda` or any virtual environment.
 
-Clone the repository:
-```
-git clone https://github.com/simular-ai/Agent-S.git
-```
-
-Install the gui-agents package:
+Install the package:
 ```
 pip install gui-agents
 ```
@@ -62,6 +115,8 @@ Set your LLM API Keys and other environment variables. You can do this by adding
 
 ```
 export OPENAI_API_KEY=<YOUR_API_KEY>
+export ANTHROPIC_API_KEY=<YOUR_ANTHROPIC_API_KEY>
+export HF_TOKEN=<YOUR_HF_TOKEN>
 ```
 
 Alternatively, you can set the environment variable in your Python script:
@@ -71,10 +126,10 @@ import os
 os.environ["OPENAI_API_KEY"] = "<YOUR_API_KEY>"
 ```
 
-We also support Azure OpenAI, Anthropic, and vLLM inference. For more information refer to [../../models.md](models.md).
+We also support Azure OpenAI, Anthropic, Gemini, Open Router, and vLLM inference. For more information refer to [../../models.md](models.md).
 
-### Setup Retrieval from Web using Perplexica
-Agent S works best with web-knowledge retrieval. To enable this feature, you need to setup Perplexica: 
+### Setup Retrieval from Web using Perplexity
+computer_Agent works best with web-knowledge retrieval. To enable this feature, you need to setup Perplexity: 
 
 1. Ensure Docker Desktop is installed and running on your system.
 
@@ -92,7 +147,7 @@ Agent S works best with web-knowledge retrieval. To enable this feature, you nee
    - `GROQ`: Your Groq API key. **You only need to fill this if you wish to use Groq's hosted models**.
    - `ANTHROPIC`: Your Anthropic API key. **You only need to fill this if you wish to use Anthropic models**.
 
-     **Note**: You can change these after starting Perplexica from the settings dialog.
+     **Note**: You can change these after starting Perplexity from the settings dialog.
 
    - `SIMILARITY_MEASURE`: The similarity measure to use (This is filled by default; you can leave it as is if you are unsure about it.)
 
@@ -102,19 +157,19 @@ Agent S works best with web-knowledge retrieval. To enable this feature, you nee
    docker compose up -d
    ```
 
-5. Next, export your Perplexica URL. This URL is used to interact with the Perplexica API backend. The port is given by the `config.toml` in your Perplexica directory.
+5. Next, export your Perplexity URL. This URL is used to interact with the Perplexity API backend. The port is given by the `config.toml` in your Perplexity directory.
 
    ```bash
    export PERPLEXICA_URL=http://localhost:{port}/api/search
    ```
 
-6. Our implementation of Agent S incorporates the Perplexica API to integrate a search engine capability, which allows for a more convenient and responsive user experience. If you want to tailor the API to your settings and specific requirements, you may modify the URL and the message of request parameters in  `agent_s/query_perplexica.py`. For a comprehensive guide on configuring the Perplexica API, please refer to [Perplexica Search API Documentation](https://github.com/ItzCrazyKns/Perplexica/blob/master/docs/API/SEARCH.md)
+6. Our implementation of computer_Agent incorporates the Perplexity API to integrate a search engine capability, which allows for a more convenient and responsive user experience. If you want to tailor the API to your settings and specific requirements, you may modify the URL and the message of request parameters in  `agent_s/query_perplexica.py`. For a comprehensive guide on configuring the Perplexity API, please refer to [Perplexity Search API Documentation](https://github.com/GeneralTradingSarl/Perplexity_agent/blob/master/docs/API/SEARCH.md)
 
-For a more detailed setup and usage guide, please refer to the [Perplexica Repository](https://github.com/ItzCrazyKns/Perplexica.git).
+For a more detailed setup and usage guide, please refer to the [Perplexity Repository](https://github.com/GeneralTradingSarl/Perplexity_agent.git).
 
 ### Setup Paddle-OCR Server
 
-Switch to a new terminal where you will run Agent S. Set the OCR_SERVER_ADDRESS environment variable as shown below. For a better experience, add the following line directly to your .bashrc (Linux), or .zshrc (MacOS) file.
+Switch to a new terminal where you will run computer_Agent. Set the OCR_SERVER_ADDRESS environment variable as shown below. For a better experience, add the following line directly to your .bashrc (Linux), or .zshrc (MacOS) file.
 
 ```
 export OCR_SERVER_ADDRESS=http://localhost:8000/ocr/
@@ -123,12 +178,11 @@ export OCR_SERVER_ADDRESS=http://localhost:8000/ocr/
 Run the ocr_server.py file code to use OCR-based bounding boxes.
 
 ```
-cd Agent-S
+cd computer_Agent
 python gui_agents/utils/ocr_server.py
 ```
 
 You can change the server address by editing the address in [gui_agents/s1/utils/ocr_server.py](utils/ocr_server.py) file.
-
 
 > ❗**Warning**❗: The agent will directly run python code to control your computer. Please use with care.
 
@@ -136,15 +190,15 @@ You can change the server address by editing the address in [gui_agents/s1/utils
 
 ### CLI
 
-Run agent_s on your computer using:  
+Run computer_Agent on your computer using:  
 ```
 agent_s1 --model gpt-4o
 ```
-This will show a user query prompt where you can enter your query and interact with Agent S. You can use any model from the list of supported models in [models.md](../../models.md).
+This will show a user query prompt where you can enter your query and interact with computer_Agent. You can use any model from the list of supported models in [../../models.md](models.md).
 
 ### `gui_agents` SDK
 
-To deploy Agent S on MacOS or Windows:
+To deploy computer_Agent on MacOS or Windows:
 
 ```
 import pyautogui
@@ -175,7 +229,7 @@ agent = GraphSearchAgent(
   platform="ubuntu",  # "macos", "windows"
   action_space="pyautogui",
   observation_type="mixed",
-  search_engine="Perplexica"
+  search_engine="Perplexity"
 )
 
 # Get screenshot.
@@ -200,9 +254,9 @@ exec(action[0])
 
 Refer to `cli_app.py` for more details on how the inference loop works.
 
-#### Downloading the Knowledege Base
+#### Downloading the Knowledge Base
 
-Agent S2 uses a knowledge base that continually updates with new knowledge during inference. The knowledge base is initially downloaded when initializing `GraphSearchAgent`. The knowledge base is stored as assets under our [GitHub Releases](https://github.com/simular-ai/Agent-S/releases). The `GraphSearchAgent` initialization will only download the knowledge base for your specified platform and agent version (e.g s1, s2). If you'd like to download the knowledge base programmatically, you can use the following code:
+computer_Agent uses a knowledge base that continually updates with new knowledge during inference. The knowledge base is initially downloaded when initializing `GraphSearchAgent`. The knowledge base is stored as assets under our [GitHub Releases](https://github.com/GeneralTradingSarl/computer_Agent/releases). The `GraphSearchAgent` initialization will only download the knowledge base for your specified platform and agent version (e.g s1, s2). If you'd like to download the knowledge base programmatically, you can use the following code:
 
 ```
 download_kb_data(
@@ -213,30 +267,27 @@ download_kb_data(
 )
 ```
 
-This will download Agent S2's knowledge base for Linux from release tag `v0.2.2` to the `kb_data` directory. Refer to our [GitHub Releases](https://github.com/simular-ai/Agent-S/releases) or release tags that include the knowledge bases.
+This will download computer_Agent's knowledge base for Linux from release tag `v0.2.2` to the `kb_data` directory. Refer to our [GitHub Releases](https://github.com/GeneralTradingSarl/computer_Agent/releases) or release tags that include the knowledge bases.
 
 ### OSWorld
 
-To deploy Agent S in OSWorld, follow the [OSWorld Deployment instructions](OSWorld.md).
+To deploy computer_Agent in OSWorld, follow the [OSWorld Deployment instructions](OSWorld.md).
 
 ### WindowsAgentArena
 
-To deploy Agent S in WindowsAgentArena, follow the [WindowsAgentArena Deployment instructions](WindowsAgentArena.md).
-
-## 🙌 Contributors
-
-We’re grateful to all the [amazing people](https://github.com/simular-ai/Agent-S/graphs/contributors) who have contributed to this project. Thank you! 🙏  
+To deploy computer_Agent in WindowsAgentArena, follow the [WindowsAgentArena Deployment instructions](WindowsAgentArena.md).
 
 ## 💬 Citation
 ```
-@misc{agashe2024agentsopenagentic,
-      title={Agent S: An Open Agentic Framework that Uses Computers Like a Human}, 
-      author={Saaket Agashe and Jiuzhou Han and Shuyu Gan and Jiachen Yang and Ang Li and Xin Eric Wang},
-      year={2024},
-      eprint={2410.08164},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2410.08164}, 
+@misc{computer_Agent_2025,
+      title={computer_Agent: Universal AI Automation & Trading Framework}, 
+      author={GeneralTradingSarl},
+      year={2025},
+      url={https://github.com/GeneralTradingSarl/computer_Agent}, 
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GeneralTradingSarl/computer_Agent&type=Date)](https://www.star-history.com/#GeneralTradingSarl/computer_Agent&Date)
 
