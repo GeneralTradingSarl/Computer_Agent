@@ -1,11 +1,17 @@
-# 🤖 computer_Agent – Universal AI Automation & Trading Framework
+<h1 align="center">
+  <img src="images/agent_s.png" alt="Logo" style="vertical-align:middle" width="60"> computer_Agent
+  <br>
+  <small>Universal AI Automation & Trading Framework by GeneralTradingSarl</small>
+</h1>
 
-Welcome to **computer_Agent** by GeneralTradingSarl – your open-source platform for building, orchestrating, and automating intelligent agents for trading, finance, data science, and beyond.
+<p align="center">
+  <img src="images/teaser.png" width="600">
+</p>
 
 ---
 
 ## 🌟 What is computer_Agent?
-computer_Agent is a compositional, modular framework designed to empower developers, traders, and businesses with:
+computer_Agent is an open-source, modular framework designed to empower developers, traders, and businesses with:
 - **AI-powered automation** for any desktop or cloud environment
 - **Trading bots & expert advisors** (MetaTrader, Python, custom)
 - **Data science & LLM integration** for smarter workflows
@@ -20,6 +26,7 @@ computer_Agent is a compositional, modular framework designed to empower develop
 - Visual and code-based automation (Python, GUI, scripts)
 - Modular: add your own agents, strategies, or data sources
 - Modern, beautiful UI and developer experience
+- Universal search and knowledge integration via [Perplexity_agent](https://github.com/GeneralTradingSarl/Perplexity_agent)
 
 ---
 
@@ -28,6 +35,10 @@ computer_Agent is a compositional, modular framework designed to empower develop
 - Build AI assistants for research, finance, or productivity
 - Integrate LLMs for document analysis, chat, or workflow automation
 - Universal search and knowledge integration
+
+<p align="center">
+  <img src="images/agent_s2_osworld_result.png" width="600">
+</p>
 
 ---
 
